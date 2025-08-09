@@ -27,7 +27,7 @@ Here are the projects you'll find in this repository. Each folder contains the d
 ### 📈 Diwali Sales Analysis
 * **Description:** An exploratory data analysis of e-commerce sales data to identify key trends and customer segments during the Diwali festival season.
 * **Tools:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
-* [Link to Project Folder](./diwali-sales-folder/)
+* [https://github.com/0xInFraR3d/Data_Analysis_Projects/tree/main/Diwali_Sales_Analysis](./diwali-sales-folder/)
 
 ### 📦 Zepto Inventory Optimization Analysis
 * **Description:** A SQL-based analysis of inventory data to identify fast-moving vs. slow-moving products and provide data-driven recommendations for stock management.
